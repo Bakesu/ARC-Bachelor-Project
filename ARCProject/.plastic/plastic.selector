@@ -1,0 +1,4 @@
+repository "ARC2@ARCau@cloud"
+  path "/"
+    br "/main"
+    co "/main"
