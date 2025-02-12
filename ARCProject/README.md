@@ -13,6 +13,8 @@ Two-Hand: Activates drawing through two-handed gestures.
  - Unity 2020.3.29f1
  - Microsoft Mixed Reality Toolkit (MRTK)
  - HoloLens 2
+ - C#
+ - .NET
 
 ## Dependencies
 The project relies on several packages, including but not limited to:
